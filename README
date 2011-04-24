@@ -1,0 +1,17 @@
+Run this command to merge SL chatlogs from various SL clients and operating
+systems into a directory in your Dropbox account.
+
+Requires Ruby 1.8.
+
+This script is written for my own convenience. You will need to edit the script
+before running it like so:
+
+  ruby1.8 secondlife-chatlog-merge.rb <sl_username> [logname, ...]
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
